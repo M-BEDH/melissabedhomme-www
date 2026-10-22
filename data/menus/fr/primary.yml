@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  slug: projets
+- title: Mes Projets
+  slug: mes-projets
   target: "/projets/"
   kind: page
   new_tab: false
@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  slug: personnes
+- title: A propos
+  slug: a-propos
   target: "/personnes/"
   kind: page
   new_tab: false
